@@ -31,7 +31,7 @@ A React-based dashboard application for tracking and visualizing patient laborat
 ![Dashboard](images/dashboard.png)
 
 ### Trend View
-![Trend](images/trend.png)
+![Trend](images/trends.png)
 
 ## Getting Started
 

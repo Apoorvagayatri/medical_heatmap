@@ -1,0 +1,39 @@
+{
+  "name": "medical_heatmap",
+  "version": "1.0.0",
+  "description": "Medical dashboard for tracking lab values with color indicators",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/material": "^5.15.11",
+    "@mui/x-date-pickers": "^7.28.0",
+    "date-fns": "^2.30.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "recharts": "^2.12.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -44,7 +44,7 @@ A React-based dashboard application for tracking and visualizing patient laborat
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/medical_heatmap.git
+git clone https://github.com/Apoorvagayatri/medical_heatmap.git
 cd medical_heatmap
 ```
 
@@ -78,6 +78,3 @@ npm start
    - Select a test to view its changes over time
    - The chart shows the value history along with normal range lines
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
